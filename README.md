@@ -1,2 +1,2 @@
-# Python-Libraries
-Project that implements small Python libraries used for the Programming Fundamentals class
+# Python-Mini-Library
+Project that implements small Python library methods used for the Programming Fundamentals class
